@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-autoprefixer
+  # - jekyll-autoprefixer
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -57,4 +57,4 @@ plugins:
 
 sass:
     sass_dir: _sass
-    implementation: sass-embedded
+    # implementation: sass-embedded

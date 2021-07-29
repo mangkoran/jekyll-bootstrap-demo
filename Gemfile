@@ -18,7 +18,7 @@ group :jekyll_plugins do
     gem "jekyll-feed"
     gem "jekyll-seo-tag"
     gem "jekyll-sitemap"
-    gem "jekyll-autoprefixer"
+    # gem "jekyll-autoprefixer"
     # gem "jekyll-sass-converter", github: "ntkme/jekyll-sass-converter"
     gem "github-pages"
 end
@@ -36,4 +36,4 @@ gem "wdm", :platforms => [:mingw, :x64_mingw, :mswin]
 # mangkoran's additional gems
 # gem "therubyracer"
 gem "mini_racer"
-gem "execjs", "2.7.0"
+# gem "execjs", "2.7.0"
