@@ -34,6 +34,6 @@ end
 gem "wdm", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # mangkoran's additional gems
-gem "therubyracer"
-# gem "mini_racer"
+# gem "therubyracer"
+gem "mini_racer"
 gem "execjs", "2.7.0"
