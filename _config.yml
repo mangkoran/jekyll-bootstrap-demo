@@ -31,8 +31,9 @@ github_username: mangkoran
 # theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-autoprefixer
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -56,3 +57,4 @@ plugins:
 
 sass:
     sass_dir: _sass
+    implementation: sass-embedded
